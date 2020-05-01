@@ -1,3 +1,3 @@
 .ds4 .button {
-    background: url(face.svgz);
+    background: url(face.svgz) !important; 
 }
