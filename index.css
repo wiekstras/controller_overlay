@@ -1037,7 +1037,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(ps4-assets/base.svgz);
+    background: url(base.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -1317,7 +1317,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.svgz);
+    background-image: url(base.svgz);
 }
 
 .ds4.white.disconnected {
